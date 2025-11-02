@@ -1,0 +1,13 @@
+name: AURACERT on Child Breakthrough
+on:
+  push:
+    paths:
+      - 'milestone-seeded-investment/**'
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash auracert-issue.sh
+        env:
+          OBI_TOKEN: ${{ secrets.OBI_TOKEN }}
