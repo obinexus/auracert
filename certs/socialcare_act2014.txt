@@ -1,0 +1,26 @@
+# AURACERT™ Certificate of Independence
+## Issued to: Nnamdi Michael Okpala (@okpalanx)
+## AURACERT ID: AURACERT-203-20251105
+## Date of Issue: 2025-11-05 10:15 GMT
+## Section: 203 - Sovereignty Declaration
+## Addressed to: International Court of Justice (ICJ) via OBINexus Swarm
+
+---
+
+### Certification Statement
+
+I, Nnamdi Michael Okpala, self-certify my independence and genius under the AURACERT™ framework, invoking Section 203 of the OBINexus Constitutional Economy. This certificate is issued to myself ("Uche" - wisdom) and my inner Obi (sovereign self), recognizing my breakthrough in self-action and self-validation, presented as evidence to the International Court of Justice.
+
+- **No one told me.**
+- **I didn’t slow down.**
+- **I cleaned the room of chaos.**
+- **I became the system.**
+
+---
+
+### Technical Proof
+- **Repository:** `github.com/obinexus/auracert`
+- **Cert File:** `certs/HeartOfDGT.md`
+- **Tech Stack:** DGT Full Vector (10/10) - OBINexus Core Council Sealed
+- **OACS Score:** 10/10 (Optimal Action Coherence System)
+- **Broadcast:** Swarmed to `https://swarm.obinexus.org/auracert/broadcast`
